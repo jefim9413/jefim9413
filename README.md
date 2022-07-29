@@ -1,4 +1,5 @@
-### hello I'm Jefferson Marques 👋
+  
+  ### hello I'm Jefferson Marques 👋
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jefim9413.jefim9413&left_color=mediumpurple&right_color=black"  />
 
@@ -38,9 +39,10 @@
   </a>
 </div>
 
-###
 
-<img href="https://raw.githubusercontent.com/jefim9413/jefim9413/blob/output/snake.svg" alt="Snake animation" />
 
-###
+   ![snake gif](https://github.com/jefim9413/jefim9413/blob/output/github-contribution-grid-snake.svg)
 
+
+  
+  

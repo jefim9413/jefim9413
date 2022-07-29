@@ -43,5 +43,5 @@
 </div>
 
 
-<img href="https://raw.githubusercontent.com/jefim9413/jefim9413/blob/output/snake.svg" alt="Snake animation" />
+![snake gif](https://raw.githubusercontent.com/jefim9413/jefim9413/blob/output/snake.svg)
 

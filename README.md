@@ -41,7 +41,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="35" alt="gmail logo"  />
   </a>
 </div>
-
-
-![snake gif](https://raw.githubusercontent.com/jefim9413/jefim9413/blob/output/snake.svg)
-
